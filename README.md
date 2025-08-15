@@ -349,22 +349,9 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- **Yashar Yasaxena** - [@yasharyasaxena](https://github.com/yasharyasaxena)
-
-## 🆘 Support
-
-If you encounter any issues or have questions, please:
-
-1. Check the [Issues](https://github.com/yasharyasaxena/speak_portrait_backend/issues) page
-2. Create a new issue with detailed information
-3. Include error logs and steps to reproduce
-
-## 📚 Additional Resources
-
-- [Express.js Documentation](https://expressjs.com/)
-- [Prisma Documentation](https://www.prisma.io/docs/)
-- [Firebase Admin SDK](https://firebase.google.com/docs/admin/setup)
-- [AWS S3 Documentation](https://docs.aws.amazon.com/s3/)
+- **Yash Arya Saxena**
+- **Hardik Hazari**
+- **Divyae Arya**
 
 ---
 
